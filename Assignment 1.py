@@ -15,7 +15,7 @@ stu_dictionary[2]= "Rajas"
 print(stu_dictionary)
 
 #delete
-stu_dictionary[3]
+del stu_dictionary[3]
 print(stu_dictionary)
 
 #add
